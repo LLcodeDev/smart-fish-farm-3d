@@ -1,0 +1,1 @@
+{"name":"smart-fish-farm-3d","version":"1.0.0","description":"智慧大棚水产养殖3D仿真","main":"index.js","scripts":{"dev":"vite"},"keywords":[],"author":"","license":"ISC","dependencies":{"three":"^0.185.1"},"devDependencies":{"localtunnel":"^2.0.2","vite":"^8.1.5"}}
